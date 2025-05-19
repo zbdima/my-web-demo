@@ -59,7 +59,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: zbdima512/my-web-demo:latest
+#          tags: zbdima512/my-web-demo:latest
 
   dependency-submission:
 
